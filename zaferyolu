@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>Zəfər Yolu Qəzeti</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Zəfər Yolu Qəzeti</h1>
+    <p>Buradan qəzetin buraxılışlarını oxuya bilərsiniz:</p>
+    <ul class="issue-list">
+      <li><a href="buraxilis1.pdf" target="_blank">1-ci buraxılış (Mart 2025)</a></li>
+    </ul>
+  </div>
+</body>
+</html>
